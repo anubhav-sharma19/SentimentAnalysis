@@ -1,0 +1,5 @@
+This is a fully trained Ml model for sentiment analysis .
+
+Data used for training is from IMDB opensource data whic has been webscrapped. 
+
+Accuray with full data training is 87 % .
